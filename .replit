@@ -1,0 +1,2 @@
+language = "cpp"
+run = "mcs -out:main.exe 'C-/1028.cpp' ; mono main.exe"
