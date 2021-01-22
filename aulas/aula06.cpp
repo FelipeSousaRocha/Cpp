@@ -16,6 +16,9 @@ int main(){
   n3 = 5;
   n4 = 2;
   
-  return 0;
+  res = n1+n2+n3+n4;
 
+  cout << "Soma de todas as variaveis: " << res << "\n\n";
+
+  return 0;
 }
